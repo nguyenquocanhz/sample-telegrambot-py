@@ -6,5 +6,5 @@ npm run dev
 ```
 # Start Bot
 ```
-npm run dev
+npm run start
 ```
